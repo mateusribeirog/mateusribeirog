@@ -2,21 +2,21 @@
 
 💬 Me: computer engineering student and a machine learning enthusiast
 
-🌱 Projects:
-
-     🌿 Brachiaria Seeds
-    \___[ computer vision and machine learning to classify brachiaria seeds
-           \_ python]
-
-    🐝 ApisFlow
-    \___[ a Real-Time Automated Tool to Detect, Classify and Count Honey Bees Castes at the Hive Entrance 
-           \_ python]
 
 <!--
 **mateusribeirog/mateusribeirog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+🌱 Projects:
+     
+     🌿 Brachiaria Seeds
+    \___[ computer vision and machine learning to classify brachiaria seeds
+           \_ python]
+    
+    🐝 ApisFlow
+    \___[ a Real-Time Automated Tool to Detect, Classify and Count Honey Bees Castes at the Hive Entrance 
+           \_ python]
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
