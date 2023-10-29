@@ -2,12 +2,6 @@
 
 💬 Me: computer engineering student and a machine learning enthusiast
 
-
-<!--
-**mateusribeirog/mateusribeirog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🌱 Projects:
      
      🌿 Brachiaria Seeds
@@ -17,6 +11,11 @@ Here are some ideas to get you started:
     🐝 ApisFlow
     \___[ a Real-Time Automated Tool to Detect, Classify and Count Honey Bees Castes at the Hive Entrance 
            \_ python]
+<!--
+**mateusribeirog/mateusribeirog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
