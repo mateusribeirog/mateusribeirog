@@ -2,7 +2,15 @@
 
 💬 Me: computer engineering student and a machine learning enthusiast
 
+🌱 **Projects**:
 
+- `💉` **`kuronotori`**<br>
+\\___[ injector housing multiple process injection techniques<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `x86 asm`,`c` ]
+
+- `🐧` **`blackbirdOS`**<br>
+\\___[ custom operating system made from scratch<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `x86 asm`,`c` ]
 <!--
 **mateusribeirog/mateusribeirog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
