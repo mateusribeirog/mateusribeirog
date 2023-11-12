@@ -3,13 +3,6 @@
 💬 Me: computer engineering student and a machine learning enthusiast
 
 
-🌿 Brachiaria Seeds
-\___[ computer vision and machine learning to classify brachiaria seeds
-     \_ python]
-    
-🐝 ApisFlow
-\___[ a Real-Time Automated Tool to Detect, Classify and Count Honey Bees Castes at the Hive Entrance 
-     \_ python
 <!--
 **mateusribeirog/mateusribeirog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
