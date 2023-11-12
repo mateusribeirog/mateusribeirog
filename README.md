@@ -2,7 +2,7 @@
 
 💬 Me: computer engineering student and a machine learning enthusiast
 
- **Projects**:
+ **Projects I'm working on**:
 
 - `🌱` **`Brachiaria Seeds`**<br>
 \\___[ analysis of the quality of seeds using computer vision and machine learning<br>
