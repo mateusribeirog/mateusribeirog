@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `tensorflow`,`pyhton` ]
 
 - `🐝` **`ApisFlow`**<br>
-\\___[ custom operating system made from scratch<br>
+\\___[ a Real-Time Automated Tool to Detect, Classify and Count Honey Bees Castes at the Hive Entrance <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `tensorflow`,`python` ]
 <!--
 **mateusribeirog/mateusribeirog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
