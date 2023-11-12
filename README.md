@@ -6,11 +6,11 @@
 
 - `🌱` **`Brachiaria Seeds`**<br>
 \\___[ analysis of the quality of seeds using computer vision and machine learning<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ ``,`pyhton` ]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `tensorflow`,`pyhton` ]
 
 - `🐝` **`ApisFlow`**<br>
 \\___[ custom operating system made from scratch<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `x86 asm`,`c` ]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `tensorflow`,`python` ]
 <!--
 **mateusribeirog/mateusribeirog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
