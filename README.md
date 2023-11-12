@@ -2,13 +2,13 @@
 
 💬 Me: computer engineering student and a machine learning enthusiast
 
-🌱 **Projects**:
+ **Projects**:
 
-- `💉` **`kuronotori`**<br>
-\\___[ injector housing multiple process injection techniques<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `x86 asm`,`c` ]
+- `🌱` **`Brachiaria Seeds`**<br>
+\\___[ analysis of the quality of seeds using computer vision and machine learning<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ ``,`pyhton` ]
 
-- `🐧` **`blackbirdOS`**<br>
+- `🐝` **`ApisFlow`**<br>
 \\___[ custom operating system made from scratch<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `x86 asm`,`c` ]
 <!--
