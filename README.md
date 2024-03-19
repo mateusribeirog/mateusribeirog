@@ -4,15 +4,15 @@
 
  **Projects I'm working on**:
 
-- `🌱` **`Brachiaria Seeds`**<br>
-\\___[ analysis of the quality of seeds using computer vision and machine learning<br>
+- `🌱` **`Vigorgraph`**<br>
+\\___[ analysis of the quality of seedlings using computer vision and machine learning<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `tensorflow`,`pyhton` ]
 
-- `🐝` **`ApisFlow`**<br>
+<!--- `🐝` **`ApisFlow`**<br>
 \\___[ a Real-Time Automated Tool to Detect, Classify and Count Honey Bees Castes at the Hive Entrance <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `tensorflow`,`python` ]
 
-
+-->
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,cpp,python,java,powershell,vscode)](https://skillicons.dev)
 
