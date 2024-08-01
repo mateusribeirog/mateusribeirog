@@ -6,7 +6,7 @@
 
 - `🌱` **`Vigorgraph`**<br>
 \\___[ analysis of the quality of seedlings using computer vision and machine learning<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `keras`,`tensorflow`,`pyhton` ]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `OpenCV`,`tensorflow`,`pyhton` ]
 
 <!--- `🐝` **`ApisFlow`**<br>
 \\___[ a Real-Time Automated Tool to Detect, Classify and Count Honey Bees Castes at the Hive Entrance <br>
