@@ -14,7 +14,7 @@
 
 -->
 ## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=c,cpp,python,java,powershell,vscode)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,python,go,powershell,vscode)](https://skillicons.dev)
 
 
 <!--
