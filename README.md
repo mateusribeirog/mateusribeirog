@@ -1,26 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=4BD78B&random=false&width=435&lines=hey%2C+welcome)](https://git.io/typing-svg)
 
-💬 Me: computer engineering student
-
- **Projects I'm working on**:
-
-- `🌱` **`Vigorgraph`**<br>
-\\___[ analysis of the quality of seedlings using computer vision and machine learning<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `OpenCV`,`tensorflow`,`python` ]
-
-<!--- `🐝` **`ApisFlow`**<br>
-\\___[ a Real-Time Automated Tool to Detect, Classify and Count Honey Bees Castes at the Hive Entrance <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `tensorflow`,`python` ]
-
--->
-## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=c,cpp,python,go,powershell,vscode)](https://skillicons.dev)
+💬 Me: computer engineering student currently at the 6th semester
 
 
 <!--
-**mateusribeirog/mateusribeirog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 🌱 Projects:
      
 - 🔭 I’m currently working on ...
@@ -32,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## `👨‍💻` DEVELOPMENT
+[![](https://skillicons.dev/icons?i=c,cpp,python,go,powershell,vscode)](https://skillicons.dev)
+
