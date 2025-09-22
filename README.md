@@ -4,7 +4,7 @@
 About:
 - 💬 I'm a computer engineering student currently at the 6th semester    
 - 🔭 I’m currently working on the development of a multi-agent platform with RAG for cosmetics design
-- 🌱 I’m currently learning the maths behind some machine learning algorithms and starting in the web development world
+- 🌱 I’m currently studying the maths behind some machine learning algorithms and starting in the web development world
 - 📫 How to reach me: matribg04@gmail.com
 - ⚡ Fun fact: Recently my first article was accepted in the 17th Brazilian Symposium on Bioinformatics (BSB 2025)
 
