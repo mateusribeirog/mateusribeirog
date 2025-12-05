@@ -12,5 +12,5 @@ About:
 
 
 ## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=c,cpp,python,go,docker,neovim,linux,pytorch,tensorflow)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,python,go,docker,neovim,linux,pytorch,tensorflow,opencv)](https://skillicons.dev)
 
