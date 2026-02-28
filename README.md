@@ -10,7 +10,7 @@ About:
 - ⚡ Fun fact: Recently my first article was accepted in the 17th Brazilian Symposium on Bioinformatics (BSB 2025)
 -->
 
-
+<!--
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,cpp,python,go,docker,neovim,linux,pytorch,tensorflow,opencv)](https://skillicons.dev)
-
+-->
